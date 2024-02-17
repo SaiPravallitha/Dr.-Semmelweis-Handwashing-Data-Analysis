@@ -1,9 +1,21 @@
 # Project Title
 ## Semmelweis and Handwashing: A Data Analysis Journey
+## Table of Contents
+- [Description](#description)
+- [Data Sources](#data-sources)
+- [Proportion of Deaths](#proportion-of-deaths)
+- [Visualization](#visualization)
+- [Handwashing Initiative](#handwashing-initiative)
+- [Graphical Representation](#graphical-representation)
+- [Quantifying the Impact](#quantifying-the-impact)
+- [Bootstrap Analysis](#bootstrap-analysis)
+- [Conclusion](#conclusion)
+- [Lessons Learned](#lessons-learned)
+
 ### Description
 This project dives into the historical data collected by Dr. Ignaz Semmelweis at the Vienna General Hospital in the mid-19th century. Dr. Semmelweis discovered the correlation between handwashing and the reduction of childbed fever, a deadly disease affecting women after childbirth. The project includes data analysis using Python and pandas, visualization with matplotlib, and statistical insights through bootstrap analysis.
 
-### Data Import
+### Data Sources
 
 Imported yearly_deaths_by_clinic.csv and monthly_deaths.csv
 
